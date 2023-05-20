@@ -11,3 +11,6 @@ Extract the scripts folder in the archive to your GTAIV directory. In game, aim 
 
 ## CREDITS:
 I used the Slow Motion script by The SkyReaper AKA LunaXTec as a base for this. Slow motion script here: https://www.nexusmods.com/gta4/mods/1
+
+## CONTROLLER USERS:
+Unfortunately, I'm not sure how to use controller input in the script or if it's even possible. However, you can use a program like JoyToKey to assign the controller aiming button to R-Click. I've confirmed this works on my end with a PS4 controller and aiming using the left trigger.
